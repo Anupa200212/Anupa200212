@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Anup  
+# 👋 Hello, I'm Anupa Supul
 
 🎓 I am a Computer Science undergraduate at the **University of Ruhuna**, specializing in **Artificial Intelligence** and **Machine Learning**.  
 🔬 My research focuses on developing intelligent systems for **data-driven decision-making** and **automated analysis** using deep learning techniques.  

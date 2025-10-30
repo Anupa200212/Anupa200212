@@ -14,3 +14,7 @@
 **Frameworks:** React, Spring Boot, Node.js, Express.js  
 **Database:** MySQL, MongoDB  
 **Tools:** Git, VS Code, Postman, IntelliJ IDEA 
+
+----------------------------
+
+⭐ *“Strive for progress, not perfection.”*

@@ -6,3 +6,11 @@
 💻 Skilled in **MERN Stack** (MongoDB, Express.js, React, Node.js) and **Java Spring Boot**, with strong experience in **MySQL** for backend data management.  
 🧩 Passionate about crafting efficient, reliable, and innovative applications that combine research insights with real-world usability.  
 🌍 Outside of technology, I enjoy exploring emerging tools, sharing ideas, and traveling across **Sri Lanka** 🇱🇰  
+
+----------------------------
+
+### 🛠️ Tech Stack
+**Languages:** Java, JavaScript, Python  
+**Frameworks:** React, Spring Boot, Node.js, Express.js  
+**Database:** MySQL, MongoDB  
+**Tools:** Git, VS Code, Postman, IntelliJ IDEA 

@@ -18,3 +18,6 @@
 ----------------------------
 
 ⭐ *“Strive for progress, not perfection.”*
+
+![Anup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupa200212&show_icons=true&theme=radical&count_private=true)
+

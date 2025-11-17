@@ -21,6 +21,8 @@
 
 ![Anup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupa200212&show_icons=true&theme=radical&count_private=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anupa200212&theme=radical)](https://git.io/streak-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anupa200212&layout=compact&theme=radical)
 
 
